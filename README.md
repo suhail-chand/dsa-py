@@ -1,2 +1,1 @@
-# dsa-py
-Exercises on Data Structures and Algorithms in Python
+# Exercises on Data Structures and Algorithms in Python
